@@ -1,0 +1,9 @@
+streamlit
+pdf2image
+python-docx
+pytesseract
+easyocr
+opencv-python
+pillow
+pdfplumber
+numpy
