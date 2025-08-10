@@ -3,7 +3,7 @@ pdf2image
 python-docx
 pytesseract
 easyocr
-opencv-python
+opencv-python-headless
 pillow
 pdfplumber
 numpy
